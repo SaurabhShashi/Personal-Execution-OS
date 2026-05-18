@@ -15,6 +15,8 @@ export interface TaskInput {
   title: string;
   durationMinutes: number;
   completed?: boolean;
+  completedAt?: string;
+  targetDate?: string;
 }
 
 // ─── Internal Models ────────────────────────────────────────

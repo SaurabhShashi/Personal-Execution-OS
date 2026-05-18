@@ -19,7 +19,7 @@ interface CourseStore {
   bulkSetDuration: (minutes: number) => void;
   updateDailyHours: (courseId: string, hours: number) => void;
   skipAllBefore: (taskId: string) => void;
-  scheduleTasksFrom: (startDate: string, startTaskId?: string) => void;
+  scheduleTasksFrom: (startDate: string, startTaskId?: string, overwrite?: boolean) => void;
   getTask: (taskId: string) => Task | undefined;
   getCourse: (courseId: string) => Course | undefined;
   recalcCourse: (courseId: string) => void;
@@ -48,7 +48,8 @@ export const useCourseStore = create<CourseStore>()(
               title: t.title,
               durationMinutes: t.durationMinutes,
               status: t.completed ? 'completed' : 'pending',
-              completedAt: t.completed ? new Date().toISOString() : undefined,
+              completedAt: t.completedAt || (t.completed ? new Date().toISOString() : undefined),
+              targetDate: t.targetDate,
               spillCount: 0,
               order: order++,
             };
@@ -77,7 +78,7 @@ export const useCourseStore = create<CourseStore>()(
 
         const d = new Date();
         const todayStr = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
-        get().scheduleTasksFrom(todayStr);
+        get().scheduleTasksFrom(todayStr, undefined, false);
 
         return courseId;
       },
@@ -195,7 +196,7 @@ export const useCourseStore = create<CourseStore>()(
         get().recalcCourse(target.courseId);
       },
 
-      scheduleTasksFrom: (startDate, startTaskId) => {
+      scheduleTasksFrom: (startDate, startTaskId, overwrite = true) => {
         set(s => {
           const courses = s.courses;
           const updatedTasks = { ...s.tasks };
@@ -229,7 +230,9 @@ export const useCourseStore = create<CourseStore>()(
               const month = String(target.getMonth() + 1).padStart(2, '0');
               const day = String(target.getDate()).padStart(2, '0');
               
-              updatedTasks[task.id] = { ...task, targetDate: `${year}-${month}-${day}` };
+              if (overwrite || !task.targetDate) {
+                updatedTasks[task.id] = { ...task, targetDate: `${year}-${month}-${day}` };
+              }
               minutesUsedOnDay += task.durationMinutes;
             }
           }
