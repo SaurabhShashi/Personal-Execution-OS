@@ -225,6 +225,10 @@ export const useMissionStore = create<MissionStore>()(
           }
         }
 
+        const defaultDate = new Date().toISOString().split('T')[0];
+        const userDate = window.prompt("Enter start date (YYYY-MM-DD) for this timeline reset:", defaultDate);
+        if (!userDate) return;
+
         // Build new mission: start from clicked task, fill forward
         const newMissionTasks: MissionTask[] = [];
         let budgetUsed = 0;
@@ -237,11 +241,11 @@ export const useMissionStore = create<MissionStore>()(
           budgetUsed += t.durationMinutes;
         }
 
-        courseStore.scheduleTasksFrom(today(), taskId);
+        courseStore.scheduleTasksFrom(userDate, taskId);
 
         set({
           currentMission: {
-            date: today(),
+            date: userDate === defaultDate ? defaultDate : new Date().toISOString().split('T')[0],
             tasks: newMissionTasks,
             totalMinutes: budgetUsed,
             completedMinutes: 0,
