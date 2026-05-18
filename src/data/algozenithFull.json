@@ -1,0 +1,1312 @@
+{
+  "courseName": "AlgoZenith Curriculum",
+  "dailyHours": 3,
+  "tracks": [
+    {
+      "name": "Website Onboarding",
+      "tasks": [
+        {
+          "title": "Know about your cohort and course accessibility",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Slack onboarding",
+      "tasks": [
+        {
+          "title": "Know about Slack and Install it",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "How does Slack works for AZ Cohorts",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Quick Slack Guide",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Dynamics of Online Judge",
+      "tasks": [
+        {
+          "title": "Dynamics of Online Judge",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Basic C++ Syntax",
+      "tasks": [
+        {
+          "title": "More about Data-Types",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Arithmetic Operators",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Say Hello With C++",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Basic Data Types",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Simple Calculator",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Setting up the Compiler on Windows & Linux",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Setting up VS code for Windows, MAC OS and Linux",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Variables and & Operators",
+      "tasks": [
+        {
+          "title": "Max and Min",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Capital or Small or Digit",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Power Of Two",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Coordinates of a Point",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "if-else",
+      "tasks": [
+        {
+          "title": "If, Else If, and nested If Else",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Age in Days",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Two Intervals",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Loops",
+      "tasks": [
+        {
+          "title": "Looping Constructs",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Even, Odd, Positive and Negative",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Max",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Gcd",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Digits",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Lucky Numbers",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Functions",
+      "tasks": [
+        {
+          "title": "setprecision in C++",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "All about Functions and Examples",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Shift Right",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Primes from 1 to n",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Sum of Consecutive Odd Numbers",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Time complexity",
+      "tasks": [
+        {
+          "title": "Time and Memory Complexity Fundamentals",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Easy Fibonacci",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Three Numbers",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Order Notations",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Amortization and Memory Complexity",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Master Theorem",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Practice Problem - 1",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Practice Problem - 2",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Practice Problem - 3",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "A Quick Pro Tip!",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Arrays",
+      "tasks": [
+        {
+          "title": "Notes: Array, declaration and advantages",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Replacement",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Reversing",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Sorting",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Position in Array",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Structures & More array problems",
+      "tasks": [
+        {
+          "title": "Structure in C++",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Replace MinMax",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Lucky Array",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Permutation With Arrays",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Frequency Array",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Strings",
+      "tasks": [
+        {
+          "title": "Notes: Strings",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Way Too Long Words",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "String Functions",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Reverse Words",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Count Letters",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "2D Arrays",
+      "tasks": [
+        {
+          "title": "Form, Traversing, Declaring and Passing 2-D arrays",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Search in Matrix",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Matrix",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "8 Neighbors",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Mirror Array",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Interesting Ideas",
+      "tasks": [
+        {
+          "title": "C++ Basics - 1",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "C++ Basics - 2",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "C++ Basics - 3",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "I Love Strings",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "String Score",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Introduction to Maths in Programming",
+      "tasks": [
+        {
+          "title": "Introduction to Maths",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Modular Arithmetic",
+      "tasks": [
+        {
+          "title": "Introduction to Modular Arithmetic",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Modulo of negative numbers, in C++ and Python",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Why do we need modulo & why 10^9+7 ?",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Rules of Modulo",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Powers in Modulo",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Inverses in Modulo",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Solving some real expressions",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Quiz on Modular Arithmetic",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Modular Arithmetic Practice",
+      "tasks": [
+        {
+          "title": "Modular Arithmetic Practice",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Exponentiation AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Solve the Equation",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Counting Principles",
+      "tasks": [
+        {
+          "title": "Counting Principles",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Examples of Counting Principles",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Counting Principles - Assignment",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Counting Principles - Practice",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Permutation and Combination",
+      "tasks": [
+        {
+          "title": "Permutations",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Combinations",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Permutations and Combination Examples",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Inclusion Exclusion Principle",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Sum Formula",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "PnC - Assignment - 1",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "PnC - Assignment - 2",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "PnC Practice",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Coding Maths Stuff",
+      "tasks": [
+        {
+          "title": "Coding Maths Stuff",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "nCr Practice",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Number of Ways to Reach B",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Number of Diagonals",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Number of Intersecting Diagonals",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Number of Parts in Convex Polygon",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Derangement",
+      "tasks": [
+        {
+          "title": "Derangement",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Derangement Assignment",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Derangement in Programming",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Derangement Practice",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "External Practice",
+      "tasks": [
+        {
+          "title": "External Practice",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Number Theory Foundations",
+      "tasks": [
+        {
+          "title": "Euclidean GCD and LCM",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Factorisation Techniques",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Prime Check AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Number of Divisors AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Divide the Piles",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Can You Make C",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Recurring Fractions",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "More Number Theory",
+      "tasks": [
+        {
+          "title": "Sieve of Eratosthenes",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Segmented Sieve",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Sieve of Eratosthenes Revisited",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Fast Factorization",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Paired Cubes",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Number Theory Practice",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "More Ideas to Know",
+      "tasks": [
+        {
+          "title": "Sieve Applications",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Factorization based counting",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Fermat's Little Theorem",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Euler's Phi Function",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Power of X in N Factorial",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Inefficient Program",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Specific Applications",
+      "tasks": [
+        {
+          "title": "Application Idea 1",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "How Many Solutions",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Application Idea 2",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Hard Floor",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "STL Basics",
+      "tasks": [
+        {
+          "title": "Pointer Fundamentals",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Templates in STL",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "STL Functions you should know",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Vectors in STL",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "STL Debugger Code",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Product of Digits AZ101",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Vector AZ101",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "STL Usages",
+      "tasks": [
+        {
+          "title": "Buy Maximum Objects I",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Generating Permutations AZ101",
+          "durationMinutes": 45,
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "Stacks & Queues",
+      "tasks": [
+        {
+          "title": "Stack & Queue",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Stack AZ101",
+          "durationMinutes": 45,
+          "completed": true
+        },
+        {
+          "title": "Queue AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Queue using 2 Stacks AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Map",
+      "tasks": [
+        {
+          "title": "Map",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Map AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Good Sequence AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Registration AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Common Absolute Difference",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Priority Queue",
+      "tasks": [
+        {
+          "title": "Priority Queue",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Priority Queue AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "The Magical Candy Bag AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Reduce the Array AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Multimap AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Set",
+      "tasks": [
+        {
+          "title": "Set",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Set AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Students and Grades",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Set Operations AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Multiset",
+      "tasks": [
+        {
+          "title": "Multiset AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Towers AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Concatenate Array AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Deque & Ordered set",
+      "tasks": [
+        {
+          "title": "Deque AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Indexed Set",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Application Ideas 1",
+      "tasks": [
+        {
+          "title": "STL Application",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Buy Maximum Objects II",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "STL Searching",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Support Queries I",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Application Ideas 2",
+      "tasks": [
+        {
+          "title": "STL Application - 2",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Valid Parentheses AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Application Ideas 3",
+      "tasks": [
+        {
+          "title": "STL Application - 3",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Maximum in Window",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Application Ideas 4",
+      "tasks": [
+        {
+          "title": "Achieve target Sum (2-SUM)",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Count the Pairs",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Sort by Roll Number",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Interesting Game",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Contribution Technique Practice",
+      "tasks": [
+        {
+          "title": "External Practice Problems",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Count Distinct Char in Substrings",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Count Unique Char in Substrings",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Contribution Technique",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Prefix Sums",
+      "tasks": [
+        {
+          "title": "Prefix Sum Concept",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Partial Sum Concept",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "LR Sum Query",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Good Numbers",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "2D Versions",
+      "tasks": [
+        {
+          "title": "2D Prefix Sums Concept",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "2D Partial Sums Concept",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Rectangle Sum Query",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Max Value in the Rectangle",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Kth Val",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Greedy & Sweepline Day 1",
+      "tasks": [
+        {
+          "title": "Minimizing Dot Problem",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Kill Monsters",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Ideas based on Fractions",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Greedy & Sweepline Day 2",
+      "tasks": [
+        {
+          "title": "Fibonacci Breakdown",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Permute the Arrays",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Interesting Game",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Greedy & Sweepline Day 3",
+      "tasks": [
+        {
+          "title": "Fast Solving",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Square sum",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Make it smooth",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Greedy & Sweepline Day 4",
+      "tasks": [
+        {
+          "title": "Selling cookies",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Like Stocks",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Light em up",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Greedy & Sweepline Day 5",
+      "tasks": [
+        {
+          "title": "Pigeonhole Principle",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Find the Subset",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Pair Products",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Binary search Fundamentals",
+      "tasks": [
+        {
+          "title": "Binary Search Introduction",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Rotated Sorted Array",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Bitonic Array",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Number & Sum of Digit",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Binary search: Application Ideas 1",
+      "tasks": [
+        {
+          "title": "Binary Search Applications 1",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Famous Painter Partition Problem",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Binary Search Applications 2",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Minimise Max Diff",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Binary search: Application Ideas 2",
+      "tasks": [
+        {
+          "title": "Binary Search Applications 3",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Kth Sum Value",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Binary Search Applications 4",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Consecutive one",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "Binary search: Application Ideas 3",
+      "tasks": [
+        {
+          "title": "Binary Search on Real Domain",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "ClassRoom",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Good Pairs AZ101",
+          "durationMinutes": 45,
+          "completed": false
+        },
+        {
+          "title": "Maximise the fraction",
+          "durationMinutes": 45,
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
+
