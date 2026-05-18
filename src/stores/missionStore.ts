@@ -214,14 +214,10 @@ export const useMissionStore = create<MissionStore>()(
         const startIndex = allTasks.findIndex(t => t.id === taskId);
         if (startIndex === -1) return;
 
-        // Skip all earlier pending tasks that were in the mission
-        const mission = get().currentMission;
-        if (mission) {
-          for (const mt of mission.tasks) {
-            const t = courseStore.getTask(mt.taskId);
-            if (t && t.status !== 'completed' && t.order < clickedTask.order) {
-              courseStore.markTask(mt.taskId, 'skipped');
-            }
+        // Skip ALL earlier pending tasks across the entire course
+        for (const t of allTasks) {
+          if (t.order < clickedTask.order && t.status === 'pending') {
+            courseStore.markTask(t.id, 'skipped');
           }
         }
 

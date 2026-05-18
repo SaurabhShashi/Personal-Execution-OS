@@ -121,8 +121,11 @@ export const useCourseStore = create<CourseStore>()(
           const updated = {
             ...task,
             status,
-            completedAt: status === 'completed' ? new Date().toISOString() : (status === 'pending' ? undefined : task.completedAt),
+            completedAt: status === 'completed' ? (task.completedAt || new Date().toISOString()) : (status === 'pending' ? undefined : task.completedAt),
           };
+          if (status === 'skipped' || status === 'completed') {
+            updated.targetDate = undefined;
+          }
           return { tasks: { ...s.tasks, [taskId]: updated } };
         });
         get().recalcCourse(get().tasks[taskId]?.courseId || '');

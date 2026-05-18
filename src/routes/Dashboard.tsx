@@ -240,6 +240,15 @@ export default function Dashboard() {
                             {isOverdue && (
                               <span className="text-[8px] px-1.5 py-0.5 bg-red-500/15 text-red-400 rounded font-mono font-bold">OVERDUE</span>
                             )}
+                            {done && task.completedAt && (
+                              <span className={`text-[7px] px-1.5 py-0.5 rounded font-mono font-bold ${
+                                task.completedAt.startsWith(todayStr) 
+                                  ? 'bg-peos-green/10 text-peos-green' 
+                                  : 'bg-peos-surface-3 text-peos-text-dim'
+                              }`}>
+                                {task.completedAt.startsWith(todayStr) ? 'COMPLETED TODAY' : 'COMPLETED BEFORE'}
+                              </span>
+                            )}
                           </p>
                         </div>
                       );
@@ -369,6 +378,15 @@ export default function Dashboard() {
                                     )}
                                     {isOverdue && (
                                       <span className="text-[7px] px-1 py-0.5 bg-red-500/15 text-red-400 rounded font-mono font-bold">OVERDUE</span>
+                                    )}
+                                    {done && task.completedAt && (
+                                      <span className={`text-[7px] px-1.5 py-0.5 rounded font-mono font-bold ${
+                                        task.completedAt.startsWith(todayStr) 
+                                          ? 'bg-peos-green/10 text-peos-green' 
+                                          : 'bg-peos-surface-3 text-peos-text-dim'
+                                      }`}>
+                                        {task.completedAt.startsWith(todayStr) ? 'COMPLETED TODAY' : 'COMPLETED BEFORE'}
+                                      </span>
                                     )}
                                   </>
                                 );
