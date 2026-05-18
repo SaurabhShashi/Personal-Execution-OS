@@ -105,14 +105,14 @@ export default function Dashboard() {
   return (
     <div className="space-y-5">
       {/* ── Top stats bar ── */}
-      <div className="flex items-center justify-between">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
           <h2 className="text-lg font-bold tracking-wide text-peos-text">COMMAND CENTER</h2>
           <p className="text-[11px] text-peos-text-dim font-mono mt-0.5">
             {new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' })}
           </p>
         </div>
-        <div className="flex items-center gap-3">
+        <div className="flex flex-wrap items-center gap-2 md:gap-3">
           <Stat icon={Flame} value={streak} label="STREAK" color={streak > 0 ? '#FF6B35' : '#555'} />
           <Stat icon={CalendarDays} value={`${coursePct}%`} label="OVERALL" color="#00B4FF" />
           <Stat icon={Clock} value={estCompletion()} label="EST." color="#8B5CF6" />
@@ -120,7 +120,7 @@ export default function Dashboard() {
       </div>
 
       {/* ── Course summary cards ── */}
-      <div className="grid grid-cols-4 gap-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3">
         {courses.map(c => {
           const pct = c.totalMinutes > 0 ? Math.round(c.completedMinutes / c.totalMinutes * 100) : 0;
           const hoursLeft = Math.round((c.totalMinutes - c.completedMinutes) / 60);
@@ -142,14 +142,14 @@ export default function Dashboard() {
       {/* ── Focus Timer (always visible when active) ── */}
       {activeSession && (
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="glass-panel p-5 glow-green">
-          <div className="flex items-center justify-between">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
             <div>
               <p className="text-[10px] font-mono text-peos-green tracking-widest mb-1">
                 {activeSession.status === 'running' ? '● FOCUSING' : '◯ PAUSED'}
               </p>
               <p className="text-sm text-peos-text truncate max-w-xs">{getTask(activeSession.taskId)?.title}</p>
             </div>
-            <div className="flex items-center gap-4">
+            <div className="flex flex-col md:flex-row items-center gap-4">
               <span className="text-3xl font-mono font-bold text-peos-text">{fmt(activeSession.plannedSeconds - elapsed)}</span>
               <div className="flex gap-2">
                 {activeSession.status === 'running' ? (
@@ -171,7 +171,7 @@ export default function Dashboard() {
       )}
 
       {/* ── Tab switcher ── */}
-      <div className="flex gap-1 bg-peos-surface/80 p-1 rounded-lg border border-peos-border/50">
+      <div className="flex flex-col sm:flex-row gap-1 bg-peos-surface/80 p-1 rounded-lg border border-peos-border/50">
         {tabs.map(tab => (
           <button
             key={tab.key}

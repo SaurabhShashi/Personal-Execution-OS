@@ -96,7 +96,7 @@ export default function Settings() {
         <p className="text-[11px] text-peos-text-dim mb-4">
           Export your data to backup or transfer it to another browser/device.
         </p>
-        <div className="flex gap-3">
+        <div className="flex flex-col sm:flex-row gap-3">
           <button 
             onClick={handleExportData}
             className="px-4 py-2 bg-peos-surface-3 text-peos-text border border-peos-border/50 rounded text-xs font-bold tracking-wider hover:bg-peos-surface-3/80 transition flex items-center gap-2"

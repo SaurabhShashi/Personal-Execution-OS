@@ -45,7 +45,7 @@ export default function NightReport() {
       ) : (
         <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} className="space-y-5">
           {/* Hero Stats */}
-          <div className="grid grid-cols-2 gap-5">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5">
             <div className="glass-panel-strong p-6 text-center border-t-4 border-peos-green">
               <p className="text-[10px] text-peos-text-dim tracking-widest mb-2">MISSION COMPLETION</p>
               <p className="text-5xl font-mono font-bold text-peos-green">
@@ -66,7 +66,7 @@ export default function NightReport() {
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-5">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5">
              <div className="glass-panel p-5 flex items-center justify-between">
                 <div className="flex items-center gap-3">
                   <Play className="w-5 h-5 text-peos-blue" />

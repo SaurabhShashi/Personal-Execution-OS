@@ -36,7 +36,7 @@ export default function SprintView() {
             <Target className="w-5 h-5 text-peos-blue" />
             <h3 className="text-sm font-bold font-mono tracking-widest text-peos-text">CURRENT SPRINT (WEEK {currentSprint.weekNumber})</h3>
           </div>
-          <div className="grid grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
             <div>
               <p className="text-[10px] text-peos-text-dim tracking-widest mb-1">DATE RANGE</p>
               <p className="text-sm font-mono">{currentSprint.startDate} → {currentSprint.endDate}</p>
