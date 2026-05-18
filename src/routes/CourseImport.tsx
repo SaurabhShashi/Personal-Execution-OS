@@ -5,6 +5,16 @@ import { useCourseStore } from '../stores/courseStore';
 import { useMissionStore } from '../stores/missionStore';
 import type { CourseInput } from '../types';
 
+const presetModules = import.meta.glob('../data/*.json', { eager: true });
+const presets = Object.entries(presetModules).map(([path, mod]: [string, any]) => {
+  const data = mod.default || mod;
+  return {
+    id: path,
+    name: data.courseName || path.split('/').pop()?.replace('.json', '') || 'Unknown Course',
+    data: data as CourseInput
+  };
+});
+
 const exampleJson = `{
   "courseName": "System Design Masterclass",
   "dailyHours": 2,
@@ -64,8 +74,28 @@ export default function CourseImport() {
     <div className="max-w-3xl mx-auto space-y-6">
       <div>
         <h2 className="text-lg font-bold tracking-wide text-peos-text">IMPORT COURSE ROADMAP</h2>
-        <p className="text-xs text-peos-text-dim mt-1">Paste a structured JSON roadmap. The system will automatically plan your daily execution.</p>
+        <p className="text-xs text-peos-text-dim mt-1">Paste a structured JSON roadmap, or load a preset from the codebase.</p>
       </div>
+
+      {presets.length > 0 && (
+        <div className="glass-panel p-5">
+          <h3 className="text-[10px] font-bold tracking-widest text-peos-text-dim mb-3">AVAILABLE PRESETS</h3>
+          <div className="flex flex-wrap gap-2">
+            {presets.map(preset => (
+              <button
+                key={preset.id}
+                onClick={() => setJsonText(JSON.stringify(preset.data, null, 2))}
+                className="px-4 py-2 bg-peos-surface-2 text-peos-text text-xs rounded border border-peos-border hover:bg-peos-surface-3 transition font-bold"
+              >
+                {preset.name}
+              </button>
+            ))}
+          </div>
+          <p className="text-[10px] text-peos-text-dim mt-3 italic">
+            Save any JSON file to `src/data/` in the codebase to make it appear here automatically.
+          </p>
+        </div>
+      )}
 
       {success && (
         <div className="glass-panel p-4 border-l-4 border-l-peos-green flex items-center gap-3 bg-peos-green/10">
