@@ -1,0 +1,1378 @@
+TASK 1 • 100% Completedbadge icon
+Website Onboarding
+00:02:00
+1
+
+Know about your cohort and course accessibility
+badge icon
+Completed On March 2, 2026
+00:02:00
+
+TASK 2 • 100% Completedbadge icon
+Slack onboarding
+00:12:00
+3
+
+Know about Slack and Install it
+badge icon
+Completed On March 2, 2026
+00:03:00
+
+How does Slack works for AZ Cohorts
+badge icon
+Completed On March 2, 2026
+00:05:00
+
+Quick Slack Guide
+badge icon
+Completed On March 2, 2026
+00:04:00
+
+TASK 3 • 100% Completedbadge icon
+Dynamics of Online Judge
+00:50:00
+1
+
+Dynamics of Online Judge
+badge icon
+Completed On March 3, 2026
+00:50:00
+
+TASK 4 • 100% Completedbadge icon
+Basic C++ Syntax
+02:21:00
+7
+
+More about Data-Types
+badge icon
+Completed On March 3, 2026
+00:22:00
+
+Arithmetic Operators
+badge icon
+Completed On March 3, 2026
+00:22:00
+
+Say Hello With C++
+badge icon
+Completed On March 4, 2026
+00:30:00
+
+Basic Data Types
+badge icon
+Completed On March 4, 2026
+00:30:00
+
+Simple Calculator
+badge icon
+Completed On March 4, 2026
+00:30:00
+
+Setting up the Compiler on Windows & Linux
+badge icon
+Completed On March 6, 2026
+00:03:00
+
+Setting up VS code for Windows, MAC OS and Linux
+badge icon
+Completed On March 4, 2026
+00:04:00
+
+TASK 5 • 100% Completedbadge icon
+Variables and & Operators
+02:00:00
+4
+
+Max and Min
+badge icon
+Completed On March 6, 2026
+00:30:00
+
+Capital or Small or Digit
+badge icon
+Completed On March 7, 2026
+00:30:00
+
+Power Of Two
+badge icon
+Completed On March 7, 2026
+00:30:00
+
+Coordinates of a Point
+badge icon
+Completed On March 7, 2026
+00:30:00
+
+TASK 6 • 100% Completedbadge icon
+if-else
+01:34:00
+3
+
+If, Else If, and nested If Else
+badge icon
+Completed On March 7, 2026
+00:34:00
+
+Age in Days
+badge icon
+Completed On March 7, 2026
+00:30:00
+
+Two Intervals
+badge icon
+Completed On March 7, 2026
+00:30:00
+
+TASK 7 • 100% Completedbadge icon
+Loops
+03:01:00
+6
+
+Looping Constructs
+badge icon
+Completed On March 8, 2026
+00:31:00
+
+Even, Odd, Positive and Negative
+badge icon
+Completed On March 9, 2026
+00:30:00
+
+Max
+badge icon
+Completed On March 10, 2026
+00:30:00
+
+Gcd
+badge icon
+Completed On March 11, 2026
+00:30:00
+
+Digits
+badge icon
+Completed On March 11, 2026
+00:30:00
+
+Lucky Numbers
+badge icon
+Completed On March 14, 2026
+00:30:00
+
+TASK 8 • 100% Completedbadge icon
+Functions
+02:12:00
+5
+
+setprecision in C++
+badge icon
+Completed On March 14, 2026
+00:02:00
+
+All about Functions and Examples
+badge icon
+Completed On March 14, 2026
+00:40:00
+
+Shift Right
+badge icon
+Completed On March 14, 2026
+00:30:00
+
+Primes from 1 to n
+badge icon
+Completed On March 15, 2026
+00:30:00
+
+Sum of Consecutive Odd Numbers
+badge icon
+Completed On May 9, 2026
+00:30:00
+
+TASK 9 • 20% Completed
+Time complexity
+
+No due date
+01:04:00
+10
+
+Time and Memory Complexity Fundamentals
+badge icon
+Completed On March 15, 2026
+00:00:00
+
+Easy Fibonacci
+badge icon
+Completed On March 15, 2026
+00:30:00
+
+Three Numbers
+00:30:00
+
+Order Notations
+00:00:00
+
+Amortization and Memory Complexity
+00:00:00
+
+Master Theorem
+00:00:00
+
+Practice Problem - 1
+00:00:00
+
+Practice Problem - 2
+00:00:00
+
+Practice Problem - 3
+00:00:00
+
+A Quick Pro Tip!
+00:04:00
+
+TASK 10 • 100% Completedbadge icon
+Arrays
+02:24:00
+5
+
+Notes: Array, declaration and advantages
+badge icon
+Completed On March 16, 2026
+00:24:00
+
+Replacement
+badge icon
+Completed On March 16, 2026
+00:30:00
+
+Reversing
+badge icon
+Completed On March 16, 2026
+00:30:00
+
+Sorting
+badge icon
+Completed On March 17, 2026
+00:30:00
+
+Position in Array
+badge icon
+Completed On March 18, 2026
+00:30:00
+
+TASK 11 • 100% Completedbadge icon
+Structures & More array problems
+02:18:00
+5
+
+Structure in C++
+badge icon
+Completed On March 19, 2026
+00:18:00
+
+Replace MinMax
+badge icon
+Completed On March 20, 2026
+00:30:00
+
+Lucky Array
+badge icon
+Completed On March 21, 2026
+00:30:00
+
+Permutation With Arrays
+badge icon
+Completed On April 7, 2026
+00:30:00
+
+Frequency Array
+badge icon
+Completed On April 8, 2026
+00:30:00
+
+TASK 12 • 100% Completedbadge icon
+Strings
+02:28:00
+5
+
+Notes: Strings
+badge icon
+Completed On April 8, 2026
+00:28:00
+
+Way Too Long Words
+badge icon
+Completed On April 8, 2026
+00:30:00
+
+String Functions
+badge icon
+Completed On April 10, 2026
+00:30:00
+
+Reverse Words
+badge icon
+Completed On April 11, 2026
+00:30:00
+
+Count Letters
+badge icon
+Completed On April 12, 2026
+00:30:00
+
+TASK 13 • 100% Completedbadge icon
+2D Arrays
+02:26:00
+5
+
+Form, Traversing, Declaring and Passing 2-D arrays
+badge icon
+Completed On April 14, 2026
+00:26:00
+
+Search in Matrix
+badge icon
+Completed On April 14, 2026
+00:30:00
+
+Matrix
+badge icon
+Completed On April 15, 2026
+00:30:00
+
+8 Neighbors
+badge icon
+Completed On April 16, 2026
+00:30:00
+
+Mirror Array
+badge icon
+Completed On April 16, 2026
+00:30:00
+
+TASK 14 • 83% Completed
+Interesting Ideas
+
+Due on March 14, 2026
+02:36:00
+6
+
+C++ Basics - 1
+badge icon
+Completed On April 16, 2026
+00:09:00
+
+C++ Basics - 2
+badge icon
+Completed On April 16, 2026
+00:35:00
+
+C++ Basics - 3
+badge icon
+Completed On April 27, 2026
+00:22:00
+
+I Love Strings
+badge icon
+Completed On April 17, 2026
+00:30:00
+
+URL
+exclamation icon
+Due On March 14, 2026
+00:30:00
+
+String Score
+badge icon
+Completed On April 28, 2026
+00:30:00
+
+TASK 15 • 100% Completedbadge icon
+Introduction to Maths in Programming
+00:06:00
+1
+
+Introduction to Maths
+badge icon
+Completed On April 28, 2026
+00:06:00
+
+TASK 16 • 100% Completedbadge icon
+Modular Arithmetic
+03:38:00
+8
+
+Introduction to Modular Arithmetic
+badge icon
+Completed On April 28, 2026
+00:19:00
+
+Modulo of negative numbers, in C++ and Python
+badge icon
+Completed On April 28, 2026
+01:08:00
+
+Why do we need modulo & why 10^9+7 ?
+badge icon
+Completed On April 30, 2026
+00:14:00
+
+Rules of Modulo
+badge icon
+Completed On May 1, 2026
+00:14:00
+
+Powers in Modulo
+badge icon
+Completed On May 9, 2026
+00:28:00
+
+Inverses in Modulo
+badge icon
+Completed On May 9, 2026
+00:38:00
+
+Solving some real expressions
+badge icon
+Completed On May 9, 2026
+00:07:00
+
+Quiz on Modular Arithmetic
+badge icon
+Completed On May 9, 2026
+00:30:00
+
+TASK 17 • 0% Completed
+Modular Arithmetic Practice
+
+Due on March 18, 2026
+02:00:00
+3
+
+Modular Arithmetic Practice
+exclamation icon
+Due On March 18, 2026
+01:00:00
+
+Exponentiation AZ101
+exclamation icon
+Due On March 18, 2026
+00:30:00
+
+Solve the Equation
+exclamation icon
+Due On March 18, 2026
+00:30:00
+
+TASK 18 • 100% Completedbadge icon
+Counting Principles
+03:43:00
+4
+
+Counting Principles
+badge icon
+Completed On May 1, 2026
+00:08:00
+
+Examples of Counting Principles
+badge icon
+Completed On May 1, 2026
+00:19:00
+
+Counting Principles - Assignment
+badge icon
+Completed On May 1, 2026
+01:16:00
+
+Counting Principles - Practice
+badge icon
+Completed On May 3, 2026
+02:00:00
+
+TASK 19 • 100% Completedbadge icon
+Permutation and Combination
+08:04:00
+8
+
+Permutations
+badge icon
+Completed On May 2, 2026
+00:42:00
+
+Combinations
+badge icon
+Completed On May 2, 2026
+00:40:00
+
+Permutations and Combination Examples
+badge icon
+Completed On May 2, 2026
+00:39:00
+
+Inclusion Exclusion Principle
+badge icon
+Completed On May 3, 2026
+00:40:00
+
+Sum Formula
+badge icon
+Completed On May 3, 2026
+00:11:00
+
+PnC - Assignment - 1
+badge icon
+Completed On May 3, 2026
+00:51:00
+
+PnC - Assignment - 2
+badge icon
+Completed On May 9, 2026
+00:51:00
+
+PnC Practice
+badge icon
+Completed On May 9, 2026
+03:30:00
+
+TASK 20 • 33% Completed
+Coding Maths Stuff
+
+Due on March 21, 2026
+03:18:00
+6
+
+Coding Maths Stuff
+badge icon
+Completed On May 6, 2026
+00:18:00
+
+nCr Practice
+badge icon
+Completed On May 9, 2026
+01:00:00
+
+Number of Ways to Reach B
+exclamation icon
+Due On March 21, 2026
+00:30:00
+
+Number of Diagonals
+exclamation icon
+Due On March 21, 2026
+00:30:00
+
+Number of Intersecting Diagonals
+exclamation icon
+Due On March 21, 2026
+00:30:00
+
+Number of Parts in Convex Polygon
+exclamation icon
+Due On March 21, 2026
+00:30:00
+
+TASK 21 • 0% Completed
+Derangement
+
+Due on March 23, 2026
+01:45:00
+4
+
+Derangement
+exclamation icon
+Due On March 23, 2026
+00:20:00
+
+Derangement Assignment
+exclamation icon
+Due On March 23, 2026
+00:51:00
+
+Derangement in Programming
+exclamation icon
+Due On March 23, 2026
+00:04:00
+
+Derangement Practice
+exclamation icon
+Due On March 23, 2026
+00:30:00
+
+TASK 22 • 0% Completed
+External Practice
+
+Due on March 24, 2026
+02:30:00
+1
+
+External Practice
+exclamation icon
+Due On March 24, 2026
+02:30:00
+
+TASK 23 • 0% Completed
+Number Theory Foundations
+
+Due on March 25, 2026
+02:53:00
+7
+
+Euclidean GCD and LCM
+exclamation icon
+Due On March 25, 2026
+00:02:00
+
+Factorisation Techniques
+exclamation icon
+Due On March 25, 2026
+00:21:00
+
+Prime Check AZ101
+exclamation icon
+Due On March 25, 2026
+00:30:00
+
+Number of Divisors AZ101
+exclamation icon
+Due On March 25, 2026
+00:30:00
+
+Divide the Piles
+exclamation icon
+Due On March 25, 2026
+00:30:00
+
+Can You Make C
+exclamation icon
+Due On March 25, 2026
+00:30:00
+
+Recurring Fractions
+exclamation icon
+Due On March 25, 2026
+00:30:00
+
+TASK 24 • 0% Completed
+More Number Theory
+
+Due on March 26, 2026
+02:43:00
+6
+
+Sieve of Eratosthenes
+exclamation icon
+Due On March 26, 2026
+00:13:00
+
+Segmented Sieve
+exclamation icon
+Due On March 26, 2026
+00:17:00
+
+Sieve of Eratosthenes Revisited
+exclamation icon
+Due On March 26, 2026
+00:30:00
+
+Fast Factorization
+exclamation icon
+Due On March 26, 2026
+00:13:00
+
+Paired Cubes
+exclamation icon
+Due On March 26, 2026
+00:30:00
+
+Number Theory Practice
+exclamation icon
+Due On March 26, 2026
+01:00:00
+
+TASK 25 • 0% Completed
+More Ideas to Know
+
+Due on March 27, 2026
+02:42:00
+6
+
+Sieve Applications
+exclamation icon
+Due On March 27, 2026
+00:15:00
+
+Factorization based counting
+exclamation icon
+Due On March 27, 2026
+00:45:00
+
+Fermat's Little Theorem
+exclamation icon
+Due On March 27, 2026
+00:08:00
+
+Euler's Phi Function
+exclamation icon
+Due On March 27, 2026
+00:30:00
+
+Power of X in N Factorial
+exclamation icon
+Due On March 27, 2026
+00:34:00
+
+Inefficient Program
+exclamation icon
+Due On March 27, 2026
+00:30:00
+
+TASK 26 • 0% Completed
+Specific Applications
+
+Due on March 28, 2026
+01:17:00
+4
+
+Application Idea 1
+exclamation icon
+Due On March 28, 2026
+00:07:00
+
+How Many Solutions
+exclamation icon
+Due On March 28, 2026
+00:30:00
+
+Application Idea 2
+exclamation icon
+Due On March 28, 2026
+00:10:00
+
+Hard Floor
+exclamation icon
+Due On March 28, 2026
+00:30:00
+
+TASK 27 • 100% Completedbadge icon
+STL Basics
+02:54:00
+7
+
+Pointer Fundamentals
+badge icon
+Completed On May 10, 2026
+00:32:00
+
+Templates in STL
+badge icon
+Completed On May 10, 2026
+00:11:00
+
+STL Functions you should know
+badge icon
+Completed On May 11, 2026
+00:28:00
+
+Vectors in STL
+badge icon
+Completed On May 16, 2026
+00:32:00
+
+STL Debugger Code
+badge icon
+Completed On May 16, 2026
+00:11:00
+
+Product of Digits AZ101
+badge icon
+Completed On May 17, 2026
+00:30:00
+
+Vector AZ101
+badge icon
+Completed On May 17, 2026
+00:30:00
+
+TASK 28 • 100% Completedbadge icon
+STL Usages
+01:00:00
+2
+
+Buy Maximum Objects I
+badge icon
+Completed On May 17, 2026
+00:30:00
+
+Generating Permutations AZ101
+badge icon
+Completed On May 17, 2026
+00:30:00
+
+TASK 29 • 50% Completed
+Stacks & Queues
+
+Due on April 8, 2026
+01:36:00
+4
+
+Stack & Queue
+badge icon
+Completed On May 17, 2026
+00:06:00
+
+Stack AZ101
+badge icon
+Completed On May 17, 2026
+00:30:00
+
+Queue AZ101
+exclamation icon
+Due On April 8, 2026
+00:30:00
+
+Queue using 2 Stacks AZ101
+exclamation icon
+Due On April 8, 2026
+00:30:00
+
+TASK 30 • 0% Completed
+Map
+
+Due on April 9, 2026
+02:07:00
+5
+
+Map
+exclamation icon
+Due On April 9, 2026
+00:07:00
+
+Map AZ101
+exclamation icon
+Due On April 9, 2026
+00:30:00
+
+Good Sequence AZ101
+exclamation icon
+Due On April 9, 2026
+00:30:00
+
+Registration AZ101
+exclamation icon
+Due On April 9, 2026
+00:30:00
+
+Common Absolute Difference
+exclamation icon
+Due On April 9, 2026
+00:30:00
+
+TASK 31 • 0% Completed
+Priority Queue
+
+Due on April 10, 2026
+02:05:00
+5
+
+Priority Queue
+exclamation icon
+Due On April 10, 2026
+00:05:00
+
+Priority Queue AZ101
+exclamation icon
+Due On April 10, 2026
+00:30:00
+
+The Magical Candy Bag AZ101
+exclamation icon
+Due On April 10, 2026
+00:30:00
+
+Reduce the Array AZ101
+exclamation icon
+Due On April 10, 2026
+00:30:00
+
+Multimap AZ101
+exclamation icon
+Due On April 10, 2026
+00:30:00
+
+TASK 32 • 0% Completed
+Set
+
+Due on April 11, 2026
+01:33:00
+4
+
+Set
+exclamation icon
+Due On April 11, 2026
+00:03:00
+
+Set AZ101
+exclamation icon
+Due On April 11, 2026
+00:30:00
+
+Students and Grades
+exclamation icon
+Due On April 11, 2026
+00:30:00
+
+Set Operations AZ101
+exclamation icon
+Due On April 11, 2026
+00:30:00
+
+TASK 33 • 0% Completed
+Multiset
+
+Due on April 12, 2026
+01:30:00
+3
+
+Multiset AZ101
+exclamation icon
+Due On April 12, 2026
+00:30:00
+
+Towers AZ101
+exclamation icon
+Due On April 12, 2026
+00:30:00
+
+Concatenate Array AZ101
+exclamation icon
+Due On April 12, 2026
+00:30:00
+
+TASK 34 • 0% Completed
+Deque & Ordered set
+
+Due on April 13, 2026
+01:00:00
+2
+
+Deque AZ101
+exclamation icon
+Due On April 13, 2026
+00:30:00
+
+Indexed Set
+exclamation icon
+Due On April 13, 2026
+00:30:00
+
+TASK 35 • 0% Completed
+Application Ideas 1
+
+Due on April 15, 2026
+03:39:00
+4
+
+STL Application
+exclamation icon
+Due On April 15, 2026
+02:09:00
+
+Buy Maximum Objects II
+exclamation icon
+Due On April 15, 2026
+00:30:00
+
+STL Searching
+exclamation icon
+Due On April 15, 2026
+00:30:00
+
+Support Queries I
+exclamation icon
+Due On April 15, 2026
+00:30:00
+
+TASK 36 • 0% Completed
+Application Ideas 2
+
+Due on April 16, 2026
+01:30:00
+2
+
+STL Application - 2
+exclamation icon
+Due On April 16, 2026
+01:00:00
+
+Valid Parentheses AZ101
+exclamation icon
+Due On April 16, 2026
+00:30:00
+
+TASK 37 • 0% Completed
+Application Ideas 3
+
+Due on April 17, 2026
+01:53:00
+2
+
+STL Application - 3
+exclamation icon
+Due On April 17, 2026
+01:23:00
+
+Maximum in Window
+exclamation icon
+Due On April 17, 2026
+00:30:00
+
+TASK 38 • 0% Completed
+Application Ideas 4
+
+Due on April 18, 2026
+03:25:00
+4
+
+Achieve target Sum (2-SUM)
+exclamation icon
+Due On April 18, 2026
+01:55:00
+
+Count the Pairs
+exclamation icon
+Due On April 18, 2026
+00:30:00
+
+Sort by Roll Number
+exclamation icon
+Due On April 18, 2026
+00:30:00
+
+Interesting Game
+exclamation icon
+Due On April 18, 2026
+00:30:00
+
+TASK 39 • 0% Completed
+Contribution Technique Practice
+
+Due on April 20, 2026
+02:00:00
+4
+
+External Practice Problems
+exclamation icon
+Due On April 20, 2026
+01:00:00
+
+Count Distinct Char in Substrings
+exclamation icon
+Due On April 20, 2026
+00:30:00
+
+Count Unique Char in Substrings
+exclamation icon
+Due On April 20, 2026
+00:30:00
+
+Contribution Technique
+exclamation icon
+Due On April 20, 2026
+00:00:00
+
+TASK 40 • 0% Completed
+Prefix Sums
+
+Due on April 21, 2026
+01:08:00
+4
+
+Prefix Sum Concept
+exclamation icon
+Due On April 21, 2026
+00:04:00
+
+Partial Sum Concept
+exclamation icon
+Due On April 21, 2026
+00:04:00
+
+LR Sum Query
+exclamation icon
+Due On April 21, 2026
+00:30:00
+
+Good Numbers
+exclamation icon
+Due On April 21, 2026
+00:30:00
+
+TASK 41 • 0% Completed
+2D Versions
+
+Due on April 22, 2026
+01:39:00
+5
+
+2D Prefix Sums Concept
+exclamation icon
+Due On April 22, 2026
+00:07:00
+
+2D Partial Sums Concept
+exclamation icon
+Due On April 22, 2026
+00:02:00
+
+Rectangle Sum Query
+exclamation icon
+Due On April 22, 2026
+00:30:00
+
+Max Value in the Rectangle
+exclamation icon
+Due On April 22, 2026
+00:30:00
+
+Kth Val
+exclamation icon
+Due On April 22, 2026
+00:30:00
+
+TASK 42 • 0% Completed
+Greedy & Sweepline Day 1
+
+Due on April 28, 2026
+01:39:00
+3
+
+Minimizing Dot Problem
+exclamation icon
+Due On April 28, 2026
+00:30:00
+
+Kill Monsters
+exclamation icon
+Due On April 28, 2026
+00:30:00
+
+Ideas based on Fractions
+exclamation icon
+Due On April 28, 2026
+00:39:00
+
+TASK 43 • 0% Completed
+Greedy & Sweepline Day 2
+
+Due on April 29, 2026
+01:30:00
+3
+
+Fibonacci Breakdown
+exclamation icon
+Due On April 29, 2026
+00:30:00
+
+Permute the Arrays
+exclamation icon
+Due On April 29, 2026
+00:30:00
+
+Interesting Game
+exclamation icon
+Due On April 29, 2026
+00:30:00
+
+TASK 44 • 0% Completed
+Greedy & Sweepline Day 3
+
+Due on April 30, 2026
+01:30:00
+3
+
+Fast Solving
+exclamation icon
+Due On April 30, 2026
+00:30:00
+
+Square sum
+exclamation icon
+Due On April 30, 2026
+00:30:00
+
+Make it smooth
+exclamation icon
+Due On April 30, 2026
+00:30:00
+
+TASK 45 • 0% Completed
+Greedy & Sweepline Day 4
+
+Due on May 1, 2026
+01:30:00
+3
+
+Selling cookies
+exclamation icon
+Due On May 1, 2026
+00:30:00
+
+Like Stocks
+exclamation icon
+Due On May 1, 2026
+00:30:00
+
+Light em up
+exclamation icon
+Due On May 1, 2026
+00:30:00
+
+TASK 46 • 0% Completed
+Greedy & Sweepline Day 5
+
+Due on May 2, 2026
+01:47:00
+3
+
+Pigeonhole Principle
+exclamation icon
+Due On May 2, 2026
+00:47:00
+
+Find the Subset
+exclamation icon
+Due On May 2, 2026
+00:30:00
+
+Pair Products
+exclamation icon
+Due On May 2, 2026
+00:30:00
+
+TASK 47 • 0% Completed
+Binary search Fundamentals
+
+Due on May 12, 2026
+03:43:00
+4
+
+Binary Search Introduction
+exclamation icon
+Due On May 12, 2026
+02:13:00
+
+Rotated Sorted Array
+exclamation icon
+Due On May 12, 2026
+00:30:00
+
+Bitonic Array
+exclamation icon
+Due On May 12, 2026
+00:30:00
+
+Number & Sum of Digit
+exclamation icon
+Due On May 12, 2026
+00:30:00
+
+TASK 48 • 0% Completed
+Binary search: Application Ideas 1
+
+Due on May 13, 2026
+03:05:00
+4
+
+Binary Search Applications 1
+exclamation icon
+Due On May 13, 2026
+01:11:00
+
+Famous Painter Partition Problem
+exclamation icon
+Due On May 13, 2026
+00:30:00
+
+Binary Search Applications 2
+exclamation icon
+Due On May 13, 2026
+00:54:00
+
+Minimise Max Diff
+exclamation icon
+Due On May 13, 2026
+00:30:00
+
+TASK 49 • 0% Completed
+Binary search: Application Ideas 2
+
+Due on May 14, 2026
+02:56:00
+4
+
+Binary Search Applications 3
+exclamation icon
+Due On May 14, 2026
+00:48:00
+
+Kth Sum Value
+exclamation icon
+Due On May 14, 2026
+00:30:00
+
+Binary Search Applications 4
+exclamation icon
+Due On May 14, 2026
+01:08:00
+
+Consecutive one
+exclamation icon
+Due On May 14, 2026
+00:30:00
+
+TASK 50 • 0% Completed
+Binary search: Application Ideas 3
+
+Due on May 15, 2026
+01:39:00
+4
+
+Binary Search on Real Domain
+exclamation icon
+Due On May 15, 2026
+00:09:00
+
+ClassRoom
+exclamation icon
+Due On May 15, 2026
+00:30:00
+
+Good Pairs AZ101
+exclamation icon
+Due On May 15, 2026
+00:30:00
+
+Maximise the fraction
+exclamation icon
+Due On May 15, 2026
+00:30:00
+
+TASK 51 • 0% Completed
+Binary search [Optional]
+
+Due on May 16, 2026
+01:27:00
+1
+
+Binary Search solving on CSES
+exclamation icon
+Due On May 16, 2026
+01:27:00
+
+TASK 52 • 0% Completed
+Binary Search [Optional]
+
+Due on May 17, 2026
+01:27:00
+1
+
+Binary Search solving on CSES
