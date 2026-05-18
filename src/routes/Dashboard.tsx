@@ -18,7 +18,6 @@ export default function Dashboard() {
   const courses = useCourseStore(s => s.courses);
   const tasks = useCourseStore(s => s.tasks);
   const getTask = useCourseStore(s => s.getTask);
-  const getCourseTasks = useCourseStore(s => s.getCourseTasks);
   const updateTaskDuration = useCourseStore(s => s.updateTaskDuration);
   const mission = useMissionStore(s => s.currentMission);
   const generateMission = useMissionStore(s => s.generateTodayMission);
@@ -29,7 +28,6 @@ export default function Dashboard() {
   const removeTaskFromMission = useMissionStore(s => s.removeTaskFromMission);
   const startFromTask = useMissionStore(s => s.startFromTask);
   const streak = useMissionStore(s => s.streak);
-  const longestStreak = useMissionStore(s => s.longestStreak);
   const estCompletion = useMissionStore(s => s.getEstimatedCompletion);
   const currentSprint = useMissionStore(s => s.getCurrentSprint);
   const sprints = useMissionStore(s => s.sprints);
@@ -233,7 +231,7 @@ export default function Dashboard() {
                         <div className="flex-1 min-w-0">
                           <p className={`text-sm ${done ? 'text-peos-text-dim line-through' : 'text-peos-text'}`}>{task.title}</p>
                           <p className="text-[10px] text-peos-text-dim mt-0.5 flex items-center gap-1.5">
-                            {task.trackName} · <EditableDuration taskId={task.id} minutes={task.durationMinutes} onSave={(m) => { updateTaskDuration(task.id, m); refreshSprints(); }} />
+                            {task.trackName} · <EditableDuration minutes={task.durationMinutes} onSave={(m) => { updateTaskDuration(task.id, m); refreshSprints(); }} />
                             {estDate && !done && (
                               <span className={`font-mono ${isOverdue ? 'text-red-400 font-bold' : 'text-peos-text-dim'}`}>
                                 · est. {estDate}
@@ -363,7 +361,7 @@ export default function Dashboard() {
                                 return (
                                   <>
                                     <p className={`text-xs flex-1 ${done ? 'line-through text-peos-text-dim' : skipped ? 'line-through text-peos-text-dim' : 'text-peos-text'}`}>{task.title}</p>
-                                    <EditableDuration taskId={task.id} minutes={task.durationMinutes} onSave={(m) => { updateTaskDuration(task.id, m); refreshSprints(); }} />
+                                    <EditableDuration minutes={task.durationMinutes} onSave={(m) => { updateTaskDuration(task.id, m); refreshSprints(); }} />
                                     {estDate && !done && !skipped && (
                                       <span className={`text-[8px] font-mono ${isOverdue ? 'text-red-400 font-bold' : 'text-peos-text-dim'}`}>
                                         {estDate}
@@ -513,7 +511,7 @@ function Stat({ icon: Icon, value, label, color }: { icon: any; value: any; labe
   );
 }
 
-function EditableDuration({ taskId, minutes, onSave }: { taskId: string; minutes: number; onSave: (m: number) => void }) {
+function EditableDuration({ minutes, onSave }: { minutes: number; onSave: (m: number) => void }) {
   const [editing, setEditing] = useState(false);
   const [val, setVal] = useState(String(minutes));
   const inputRef = useRef<HTMLInputElement>(null);

@@ -71,7 +71,7 @@ export const useMissionStore = create<MissionStore>()(
         const totalDailyMinutes = courses.reduce((s, c) => s + c.dailyHours * 60, 0);
         const remainingTasks = courseStore.getRemainingTasks();
 
-        const mission = generateDailyMission(remainingTasks, totalDailyMinutes, get().currentMission);
+        const mission = generateDailyMission(remainingTasks, totalDailyMinutes);
         set({ currentMission: mission });
       },
 

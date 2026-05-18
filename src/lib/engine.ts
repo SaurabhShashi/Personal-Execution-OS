@@ -11,8 +11,7 @@ const today = () => new Date().toISOString().split('T')[0];
  */
 export function generateDailyMission(
   remainingTasks: Task[],
-  dailyMinutes: number,
-  previousMission?: DailyMission | null
+  dailyMinutes: number
 ): DailyMission {
   const missionTasks: MissionTask[] = [];
   let budgetLeft = dailyMinutes;

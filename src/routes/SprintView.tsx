@@ -1,6 +1,6 @@
 import { useMissionStore } from '../stores/missionStore';
 import { useCourseStore } from '../stores/courseStore';
-import { CalendarDays, Target, AlertTriangle } from 'lucide-react';
+import { CalendarDays, Target } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export default function SprintView() {
