@@ -7,7 +7,7 @@ interface CourseStore {
   courses: Course[];
   tasks: Record<string, Task>; // taskId → Task
 
-  importCourse: (input: CourseInput) => string; // returns courseId
+  importCourse: (input: CourseInput, startDate?: string) => string; // returns courseId
   deleteCourse: (courseId: string) => void;
   getCourseTasks: (courseId: string) => Task[];
   getRemainingTasks: (courseId?: string) => Task[];
@@ -31,7 +31,7 @@ export const useCourseStore = create<CourseStore>()(
       courses: [],
       tasks: {},
 
-      importCourse: (input) => {
+      importCourse: (input, startDate) => {
         const courseId = uuid();
         const allTasks: Record<string, Task> = {};
         const tracks: Course['tracks'] = [];
@@ -78,7 +78,7 @@ export const useCourseStore = create<CourseStore>()(
 
         const d = new Date();
         const todayStr = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
-        get().scheduleTasksFrom(todayStr, undefined, false);
+        get().scheduleTasksFrom(startDate || todayStr, undefined, false);
 
         return courseId;
       },

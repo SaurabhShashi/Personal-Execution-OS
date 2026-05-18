@@ -56,7 +56,11 @@ export default function CourseImport() {
         throw new Error('Invalid schema: Must contain courseName and tracks array.');
       }
       
-      importCourse(parsed);
+      const defaultDate = new Date().toISOString().split('T')[0];
+      const userDate = window.prompt("Enter start date (YYYY-MM-DD) for this course timeline:", defaultDate);
+      if (!userDate) return;
+
+      importCourse(parsed, userDate);
       refreshSprints();
       generateTodayMission(); // Generate immediate mission if needed
       

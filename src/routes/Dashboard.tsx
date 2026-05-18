@@ -407,7 +407,7 @@ export default function Dashboard() {
                               )}
 
                               {/* START HERE — rebuild mission from this task */}
-                              {!done && !skipped && !inMission && (
+                              {!done && !skipped && (
                                 <button
                                   onClick={() => { startFromTask(task.id); setActiveTab('mission'); }}
                                   className="px-2 py-1 bg-peos-amber/10 text-peos-amber rounded text-[9px] font-bold hover:bg-peos-amber/20 transition flex items-center gap-1"
